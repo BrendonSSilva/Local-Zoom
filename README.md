@@ -22,6 +22,10 @@ O LocalZoom foi desenvolvido como uma solução completa e eficiente para atende
 - Interface responsiva e atraente
 - UX/UI intuitiva
 
+## Contato
+
+Estou aberto a oportunidades de trabalho e disposto a compartilhar e explicar meu código para aqueles que tenham interesse. Se você tiver alguma dúvida ou quiser saber mais sobre o projeto, não hesite em entrar em contato.
+
 ## Demonstração
 
 Aqui estão algumas capturas de tela do projeto:
@@ -34,7 +38,3 @@ Aqui estão algumas capturas de tela do projeto:
 ![Captura de Tela 6](./img/lz6.png)
 ![Captura de Tela 7](./img/lz7.png)
 ![Captura de Tela 8](./img/lz9.png)
-
-## Contato
-
-Estou aberto a oportunidades de trabalho e disposto a compartilhar e explicar meu código para aqueles que tenham interesse. Se você tiver alguma dúvida ou quiser saber mais sobre o projeto, não hesite em entrar em contato.
