@@ -33,7 +33,7 @@ O LocalZoom responde isso de forma organizada, bonita e instantânea — direto 
 ## Screenshots
 
 <details>
-<summary>👆 <strong>Site Completo da Empresa (Desktop)</strong> — clique para ver</summary>
+<summary><strong>Site Completo da Empresa (Desktop)</strong> — clique para ver</summary>
 
 Cada empresa com plano ativo recebe um site completo com descrição, fotos, galeria, horário de funcionamento, endereço, redes sociais e botões de ação rápida (WhatsApp, compartilhar, cartão digital).
 
@@ -42,7 +42,7 @@ Cada empresa com plano ativo recebe um site completo com descrição, fotos, gal
 </details>
 
 <details>
-<summary>👆 <strong>Site Completo da Empresa (Mobile)</strong> — clique para ver</summary>
+<summary><strong>Site Completo da Empresa (Mobile)</strong> — clique para ver</summary>
 
 Interface 100% responsiva, com experiência otimizada para mobile — onde a maioria dos acessos acontece.
 
@@ -51,7 +51,7 @@ Interface 100% responsiva, com experiência otimizada para mobile — onde a mai
 </details>
 
 <details>
-<summary>👆 <strong>Cartão de Visita Digital</strong> — clique para ver</summary>
+<summary><strong>Cartão de Visita Digital</strong> — clique para ver</summary>
 
 Gerado automaticamente para cada empresa. Design elegante em dark mode, pronto para compartilhar via WhatsApp ou imprimir.
 
@@ -60,7 +60,7 @@ Gerado automaticamente para cada empresa. Design elegante em dark mode, pronto p
 </details>
 
 <details>
-<summary>👆 <strong>Sistema de Promoções com Contador Regressivo</strong> — clique para ver</summary>
+<summary><strong>Sistema de Promoções com Contador Regressivo</strong> — clique para ver</summary>
 
 Comerciantes criam ofertas com foto, preço antigo/novo e um timer em tempo real. O cliente vê a urgência — e age.
 
@@ -69,7 +69,7 @@ Comerciantes criam ofertas com foto, preço antigo/novo e um timer em tempo real
 </details>
 
 <details>
-<summary>👆 <strong>Painel de Métricas</strong> — clique para ver</summary>
+<summary><strong>Painel de Métricas</strong> — clique para ver</summary>
 
 O comerciante acompanha acessos ao perfil, cliques no WhatsApp e origem do tráfego. Dados reais, sem achismo.
 
@@ -78,7 +78,7 @@ O comerciante acompanha acessos ao perfil, cliques no WhatsApp e origem do tráf
 </details>
 
 <details>
-<summary>👆 <strong>Busca Inteligente</strong> — clique para ver</summary>
+<summary><strong>Busca Inteligente</strong> — clique para ver</summary>
 
 Sugestões em tempo real conforme o usuário digita. Resultados filtrados por categoria e cidade.
 
@@ -87,7 +87,7 @@ Sugestões em tempo real conforme o usuário digita. Resultados filtrados por ca
 </details>
 
 <details>
-<summary>👆 <strong>Light Mode & Dark Mode</strong> — clique para ver</summary>
+<summary><strong>Light Mode & Dark Mode</strong> — clique para ver</summary>
 
 Tema claro e escuro com alternância automática e memória de preferência do usuário.
 
