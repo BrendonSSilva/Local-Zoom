@@ -32,43 +32,62 @@ O LocalZoom responde isso de forma organizada, bonita e instantânea — direto 
 
 ## Screenshots
 
-### Site Completo da Empresa (Desktop)
+<details>
+<summary><strong>Site Completo da Empresa (Desktop)</strong></summary>
 
 Cada empresa com plano ativo recebe um site completo com descrição, fotos, galeria, horário de funcionamento, endereço, redes sociais e botões de ação rápida (WhatsApp, compartilhar, cartão digital).
 
 ![Site Completo - Desktop](./images/01-sitecompleto.png)
 
-### Site Completo da Empresa (Mobile)
+</details>
+
+<details>
+<summary><strong>Site Completo da Empresa (Mobile)</strong></summary>
 
 Interface 100% responsiva, com experiência otimizada para mobile — onde a maioria dos acessos acontece.
 
 ![Site Completo - Mobile](./images/02-sitecompletomobile.png)
 
-### Cartão de Visita Digital
+</details>
+
+<details>
+<summary><strong>Cartão de Visita Digital</strong></summary>
 
 Gerado automaticamente para cada empresa. Design elegante em dark mode, pronto para compartilhar via WhatsApp ou imprimir.
 
 ![Cartão de Visita Digital](./images/03-cartao.png)
 
-### Sistema de Promoções com Contador Regressivo
+</details>
+
+<details>
+<summary><strong>Sistema de Promoções com Contador Regressivo</strong></summary>
 
 Comerciantes criam ofertas com foto, preço antigo/novo e um timer em tempo real. O cliente vê a urgência — e age.
 
 ![Sistema de Promoções](./images/04-promo.png)
 
-### Painel de Métricas
+</details>
+
+<details>
+<summary><strong>Painel de Métricas</strong></summary>
 
 O comerciante acompanha acessos ao perfil, cliques no WhatsApp e origem do tráfego. Dados reais, sem achismo.
 
 ![Painel de Métricas](./images/05-promo-analytics.png)
 
-### Busca Inteligente
+</details>
+
+<details>
+<summary><strong>Busca Inteligente</strong></summary>
 
 Sugestões em tempo real conforme o usuário digita. Resultados filtrados por categoria e cidade.
 
 ![Busca Inteligente](./images/06-search.png)
 
-### Light Mode & Dark Mode
+</details>
+
+<details>
+<summary><strong>Light Mode & Dark Mode</strong></summary>
 
 Tema claro e escuro com alternância automática e memória de preferência do usuário.
 
@@ -76,6 +95,8 @@ Tema claro e escuro com alternância automática e memória de preferência do u
   <img src="./images/07-lightmode.png" alt="Light Mode" width="49%">
   <img src="./images/08-darkmode.png" alt="Dark Mode" width="49%">
 </p>
+
+</details>
 
 ---
 
